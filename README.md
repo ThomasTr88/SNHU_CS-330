@@ -16,6 +16,11 @@ Throughout this course, I developed my 3D scene step by step. Each milestone hel
 
 Computer science helps me build the programming and problem-solving skills needed for my future career. Before this course, I had little experience creating 3D graphics. Learning OpenGL helped me understand how video games and other applications display and control 3D objects. Since I am interested in software development, mobile applications, and video games, I believe these skills will be useful in future courses and projects. I can also apply what I learned to create more interactive applications.
 
+## Final Project Files
+
+- [Download the 3D Scene ZIP](https://github.com/ThomasTr88/SNHU_CS-330/releases/download/v1.0/ThomasTran_CS330_module_7-1_FinalProject_1.zip)
+- Design Decisions document: Available in the repository's main file list.
+
 ## AI Acknowledgment
 
 I used ChatGPT by OpenAI to help understand OpenGL concepts, troubleshoot programming problems, and review my written reflection. I reviewed and modified the suggestions based on my project experience.
